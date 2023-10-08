@@ -1,8 +1,6 @@
 <h2 align="center">Meet The Mind Behind The Page</h2>
 
-###
-
-<h4 align="center">Hola!👋 I'm Shahad from Saudi Arabia, Software Engineer | Passionate about coding, <br>problem-solving, designing, and building cool stuff.🐱‍🏍😎 Inspired by the fear of being average <br>Endlessly creating myself🎆. Learning and evoloving one line of code at a time.💻🚀 #CodeIsLife #CoffeeLover</h4>
+#### <h4 align="center">Hola!👋 <br> I'm Shahad from Saudi Arabia,<br> Software Engineer | Passionate about coding, <br> problem-solving, designing, and building cool stuff.🐱‍🏍😎 <br> Inspired by the fear of being average. Endlessly creating myself🎆.<br> Learning and evoloving one line of code at a time.💻🚀 <br> #CodeIsLife #CoffeeLover</h4>
 
 ###
 
