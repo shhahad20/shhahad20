@@ -9,7 +9,6 @@
 </div>
 <br>
 <br>
-<br>
 <div align="center"> 
   <img  width="55%" src="https://github.com/shhahad20/shhahad20/blob/main/hands-04.png"  />
 </div>
