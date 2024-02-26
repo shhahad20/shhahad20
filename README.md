@@ -1,16 +1,16 @@
 <h2 align="center">Meet The Mind Behind The Page</h2>
 <div align="center">
-  <img  width="40%" src="https://github.com/shhahad20/shhahad20/blob/main/KSA-04.png"  />
+  <img  width="50%" src="https://github.com/shhahad20/shhahad20/blob/main/KSA-04.png"  />
 </div>
 <br>
 <br>
 <div align="center"> 
-  <img  width="65%" src="https://github.com/shhahad20/shhahad20/blob/main/pro-04.png"  />
+  <img  width="75%" src="https://github.com/shhahad20/shhahad20/blob/main/pro-04.png"  />
 </div>
 <br>
 <br>
 <div align="center"> 
-  <img  width="55%" src="https://github.com/shhahad20/shhahad20/blob/main/hands-04.png"  />
+  <img  width="65%" src="https://github.com/shhahad20/shhahad20/blob/main/hands-04.png"  />
 </div>
 
 
