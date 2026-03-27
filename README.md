@@ -3,6 +3,12 @@
 <h3 align="center">LANGUAGES</h3>
 
 ###
+<dotlottie-wc
+  src="https://lottie.host/276a736a-f0e3-4d70-9b3f-c051ad34f690/fGYL8ANohh.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
