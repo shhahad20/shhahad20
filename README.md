@@ -1,30 +1,38 @@
 <h2 align="center">Meet The Mind Behind The Page</h2>
 <img src="curiosity.png" />
-<h3 align="center">LANGUAGES</h3>
 
-###
- 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/shahadaltharwa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/shhahad20" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">Technologies </h3>
 
 ###
 
-<h3 align="center">DESIGN</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+ <br/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <br/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+###
+
+<h3 align="center">Design </h3>
 
 ###
 
@@ -34,13 +42,6 @@
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shhahad20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=shhahad20&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
