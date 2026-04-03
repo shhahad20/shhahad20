@@ -1,5 +1,5 @@
 <h2 align="center">Meet The Mind Behind The Page</h2>
-
+<img src="curiosity.png" />
 <h3 align="center">LANGUAGES</h3>
 
 ###
