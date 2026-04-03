@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/shhahad20" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" />
 </p>
 
 <h3 align="center">Technologies </h3>
