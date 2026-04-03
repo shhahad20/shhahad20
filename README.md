@@ -1,6 +1,7 @@
 <h2 align="center">Meet The Mind Behind The Page</h2>
-<img src="curiosity.png" />
-
+<div align="center">
+<img src="curiosity.png" width=80% />
+<div />
  <p align="center">
   <a href="https://www.linkedin.com/in/shahadaltharwa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,6 +36,8 @@
 <h3 align="center">Design </h3>
 
 ###
+###
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
@@ -43,5 +46,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
+<br/>
+<br/>
+<br/>
+<div align = "center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shhahad20&bg_color=050505&color=d4be98&line=d8a657&point=e78a4e&area=true&hide_border=true" width="100%"/>
 
+</div>
 ###
